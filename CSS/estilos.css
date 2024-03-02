@@ -2,3 +2,26 @@
     margin: 0px;
     padding: 0px;
 }
+header{
+    border: 1px solid #000000;
+    width: 100%;
+    height: 100px;
+    font-family: "Abril Fatface", serif;
+    text-align: center;
+    font-size: 80px;
+    color:#ffffff;
+    background-color: #808080;
+    position: sticky;
+}
+
+button{
+    border: 1px solid #000000;
+    font-family: "Abril Fatface", serif;
+    font-size: 16px;
+    background-color: beige;
+    margin-top: 10px;
+}
+
+body{ 
+    background-color:#ffffb7;
+}
