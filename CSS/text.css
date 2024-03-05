@@ -4,11 +4,16 @@
     font-style: normal;
     text-align: left;
     margin-top: 15px;
+    text-decoration: underline;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color: #ffffff;
 }
 
 .textos{
     text-align: justify;
-    font-size: 18px;
-    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: #ffffff ;
+    font-family: cursive;
     margin-top: 15px;
+    font-size: x-large;
+    
 }

@@ -10,18 +10,52 @@ header{
     text-align: center;
     font-size: 80px;
     color:#ffffff;
-    background-color:rgb(67, 20, 220);
+    background-color:#4314dc;
     position: sticky;
 }
 
-button{
-    border: 1px solid #000000;
+.btnLamborghini{
+    color: #ffffff;
+    margin-top: 10px;
+    border: 12px solid #ffe6007e;
     font-family: "Abril Fatface", serif;
     font-size: 16px;
-    background-color: beige;
-    margin-top: 10px;
+    background-color: #ffe6007e;
 }
 
+.btnFerrari{
+    color: #ffffff;
+    margin-top: 10px;
+    border: 12px solid  #ff0000;
+    font-family: "Abril Fatface", serif;
+    font-size: 16px;
+    background-color: #ff0000;
+}
+
+.btnBugatti{
+    color: #ffffff;
+    margin-top: 10px;
+    border: 12px solid #4314dc;
+    font-family: "Abril Fatface", serif;
+    font-size: 16px;
+    background-color: #4314dc;
+}
+
+.btnRollsRoyce{
+    color: #ffffff;
+    margin-top: 10px;
+    border: 12px solid #808080;
+    font-family: "Abril Fatface", serif;
+    font-size: 16px;
+    background-color: #808080;
+}
+
+.boton{
+    margin-top: 10px;
+    border: 1px solid #000000;
+    font-size: 20px;
+    font-family: "Abril Fatface", serif;
+}
 body{ 
     background-color:#000000;
 }
